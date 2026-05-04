@@ -1,3 +1,9 @@
+libfork (1.7.5) unstable; urgency=medium
+
+  * ci: build on github, in my organization
+
+ -- Michal Maruska <mmaruska@gmail.com>  Mon, 04 May 2026 23:27:58 +0200
+
 libfork (1.7.4) unstable; urgency=medium
 
   [ mmaruska@gmail.com ]
